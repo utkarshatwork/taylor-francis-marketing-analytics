@@ -11,3 +11,23 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Status-Complete-2E7D32?style=flat"/>
 </p>
+
+---
+
+## Table of Contents
+
+1. [Project Overview](#project-overview)
+2. [Business Context and Problem Statement](#business-context-and-problem-statement)
+3. [Data Overview](#data-overview)
+4. [Project Architecture](#project-architecture)
+5. [Phase 1 — Python](#phase-1--python)
+6. [Phase 2 — SQL](#phase-2--sql)
+7. [Phase 3 — Power BI](#phase-3--power-bi)
+8. [Key Findings and Business Insights](#key-findings-and-business-insights)
+9. [Report Preview](#report-preview)
+10. [Repository Structure](#repository-structure)
+11. [How to Run the Project](#how-to-run-the-project)
+12. [Tech Stack](#tech-stack)
+13. [Author](#author)
+
+---
