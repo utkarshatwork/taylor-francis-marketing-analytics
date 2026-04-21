@@ -33,22 +33,7 @@
 ---
 ## Project Overview
 
-This project delivers a complete, end-to-end marketing ROI audit for Taylor & Francis,
-a leading academic publisher. Built as a data analytics capstone, it covers the full
-analytical pipeline — from synthetic data generation and exploratory analysis in Python,
-through relational database design and attribution modelling in MySQL, to an interactive
-multi-page business intelligence report in Power BI.
-
-The central business question driving the project is: **which marketing channels and
-campaigns are actually generating return, and which are destroying value?** To answer
-this, a last-touch attribution model was implemented in SQL — assigning each published
-article's APC revenue to the marketing channel that last engaged the author before
-submission. The results were striking: Email marketing delivered a 28.57x ROAS on
-£50,000 spend, while Social Ads lost money at 0.53x ROAS despite consuming £400,000 —
-62% of the total marketing budget.
-
-Beyond channel performance, the project segments corporate authors using K-Means
-clustering to identify behavioural archetypes, analyses submission outcomes across
-journals, and surfaces revenue concentration by institution type and author segment —
-giving Taylor & Francis a complete picture of both their marketing efficiency and their
-audience landscape.
+An end-to-end marketing ROI audit for Taylor & Francis, a publishing firm.
+The project covers the full analytical pipeline — ETL, EDA, and customer
+segmentation in Python, attribution modelling in SQL, and an interactive
+business intelligence report in Power BI.
