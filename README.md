@@ -34,6 +34,6 @@
 ## Project Overview
 
 An end-to-end marketing ROI audit for Taylor & Francis, a publishing firm.
-The project covers the full analytical pipeline — ETL, EDA, and customer
+The project covers the full analytical pipeline - ETL, EDA, and customer
 segmentation in Python, attribution modelling in SQL, and an interactive
 business intelligence report in Power BI.
