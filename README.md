@@ -1,7 +1,6 @@
-# Taylor & Francis — Marketing ROI Audit 2024
-### End-to-End Data Analytics Capstone | Python · MySQL · Power BI
-
-![Executive Summary](03_powerbi/screenshots/page1_executive_summary.png)
+<p align="center">
+  <img src="assets/banner.svg" alt="Taylor & Francis — Marketing ROI Audit"/>
+</p>
 
 ![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=flat&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=flat&logo=mysql&logoColor=white)
