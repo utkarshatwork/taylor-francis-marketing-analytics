@@ -1,0 +1,21 @@
+campaign_id,channel,campaign_budget_gbp
+CMP_SO_01,Social Ads,125000
+CMP_SO_02,Social Ads,95000
+CMP_SO_03,Social Ads,85000
+CMP_SO_04,Social Ads,60000
+CMP_SO_05,Social Ads,35000
+CMP_OR_01,Organic Search,45000
+CMP_OR_02,Organic Search,30000
+CMP_OR_03,Organic Search,22000
+CMP_OR_04,Organic Search,15000
+CMP_OR_05,Organic Search,8000
+CMP_WB_01,Webinar Series,28000
+CMP_WB_02,Webinar Series,20000
+CMP_WB_03,Webinar Series,15000
+CMP_WB_04,Webinar Series,10000
+CMP_WB_05,Webinar Series,7000
+CMP_EM_01,Email,18000
+CMP_EM_02,Email,12000
+CMP_EM_03,Email,9500
+CMP_EM_04,Email,6500
+CMP_EM_05,Email,4000
