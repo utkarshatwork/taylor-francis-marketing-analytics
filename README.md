@@ -41,19 +41,18 @@ business intelligence report in Power BI.
 
 ## Business Context and Problem Statement
 
-Taylor & Francis, a global academic publishing firm operating across multiple journals, subject areas, and author segments worldwide.
-
-**The Scenario:** The marketing team has invested £650,000 across various channels and campaigns to attract authors and drive article submissions. Leadership needs to understand whether that investment is generating measurable return — and if not,
-where the budget is being wasted.
-
-**The Business Questions this project answers:**
+Taylor & Francis invested across 4 marketing channels and 20 campaigns to attract
+academic authors and drive article submissions. This project audits that investment
+to answer:
 
 - Which marketing channels are generating positive ROI and which are loss-making?
-- How much revenue can be directly attributed to each channel and campaign?
-- Which author segments - by institution type, job title, and behaviour are the
-  most commercially valuable?
-- Are there distinct behavioural segments among corporate authors that should be
-  targeted differently?
+- How much revenue can be attributed to each channel and campaign?
+- Which author segments are the most commercially valuable?
+- Are there distinct behavioural segments among authors?
 - Which subject areas drive the highest submission volume and revenue?
 - Which journals have the highest and lowest article acceptance rates?
 
+## Data Overview
+
+- 4 core tables: `authors`, `submissions`, `interactions`, `marketing_spend`
+- 1 derived MySQL view: `submissions_attributed` — last-touch attribution output
