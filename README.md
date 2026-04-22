@@ -55,4 +55,4 @@ to answer:
 ## Data Overview
 
 - 4 core tables: `authors`, `submissions`, `interactions`, `marketing_spend`
-- 1 derived MySQL view: `submissions_attributed` — last-touch attribution output
+- 1 derived MySQL view: `submissions_attributed` - last-touch attribution output
