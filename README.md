@@ -57,8 +57,9 @@ to answer:
 
 ## Project Architecture
 
-ETL & EDA (Python) → K-Means Clustering & Data Export (Python) → Schema Design,
-Ingestion & Attribution Modelling (MySQL) → Data Modelling and Visualization (Power BI)
+<p align="center">
+  <img src="assets/architecture.svg" alt="Project Architecture"/>
+</p>
 
 ## Tools and Technologies
 
