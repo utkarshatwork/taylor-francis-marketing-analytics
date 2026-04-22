@@ -161,20 +161,21 @@ published article volume.
 ### Python
 1. Clone the repository
 2. Install dependencies:
-3. Open and run the notebook in `01_python/`
+3. Open and run `python/T&F ETL-checkpoint.ipynb`
 
 ### SQL
 1. Create a new MySQL database:
-
-2. Run scripts in order from `02_sql/`:
-   - `01_schema_and_ingestion.sql`
-   - `02_last_touch_attribution.sql`
+2. Run scripts in order from `sql/`:
+   - `01_Schema_and_Ingestion.sql`
+   - `02_Last_Touch_Attribution.sql`
+   - `03_Channel_ROAS.sql`
+   - `04_View_Creation.sql`
 
 ### Power BI
-1. Open `03_powerbi/TF_BI_REPORT.pbix` in Power BI Desktop
+1. Open `powerbi/T&F_BI_REPORT.pbix` in Power BI Desktop
 2. Update the MySQL connection string to your local server
 3. Refresh all tables
-
+   
 ## Author
 
 **Utkarsh Pandey**<br>
