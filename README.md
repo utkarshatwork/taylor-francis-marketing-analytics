@@ -20,15 +20,13 @@
 2. [Business Context and Problem Statement](#business-context-and-problem-statement)
 3. [Data Overview](#data-overview)
 4. [Project Architecture](#project-architecture)
-5. [Phase 1 — Python](#phase-1--python)
-6. [Phase 2 — SQL](#phase-2--sql)
-7. [Phase 3 — Power BI](#phase-3--power-bi)
-8. [Key Findings and Business Insights](#key-findings-and-business-insights)
-9. [Report Preview](#report-preview)
-10. [Repository Structure](#repository-structure)
-11. [How to Run the Project](#how-to-run-the-project)
-12. [Tech Stack](#tech-stack)
-13. [Author](#author)
+5. [Tools and Technologies](#tools-and-technologies)
+6. [Methods](#methods)
+7. [Key Insights](#key-insights)
+8. [Results and Conclusion](#results-and-conclusion)
+9. [Dashboard and Report Preview](#dashboard-and-report-preview)
+10. [How to Run the Project](#how-to-run-the-project)
+11. [Author](#author)
 
 ---
 
@@ -61,4 +59,26 @@ to answer:
 
 ETL & EDA (Python) → K-Means Clustering & Data Export (Python) → Schema Design,
 Ingestion & Attribution Modelling (MySQL) → Data Modelling and Visualization (Power BI)
+
+## Tools and Technologies
+
+- **Python** - Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+- **MySQL** - Schema design, data ingestion, JOINs, CTEs, window functions, views
+- **Power BI** - Data modelling, DAX, interactive visualisations
+
+## Methods
+
+- **Exploratory Data Analysis** - distribution analysis, missing value treatment,
+  engagement trend investigation across author segments
+- **ETL Pipeline** - data extraction, cleaning, transformation and loading into
+  MySQL for downstream analysis
+- **K-Means Clustering** - unsupervised segmentation of corporate authors into 3
+  behavioural archetypes based on email and webinar engagement patterns
+- **Last-Touch Attribution** - SQL-based attribution model assigning each
+  published article's APC revenue to the channel of the author's most recent
+  pre-submission marketing interaction
+- **Star Schema Modelling** - relational data model built in Power BI with fact
+  and dimension tables connected via active and inactive relationships
+- **DAX Measures** - 23 custom measures across 6 categories covering revenue,
+  channel attribution, funnel metrics and campaign performance
 
