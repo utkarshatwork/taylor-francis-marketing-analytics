@@ -122,5 +122,29 @@ published article volume.
 
 ![Executive Summary](assets/Page1_Overview_Analysis.png)
 
+## How to Run the Project
 
+### Python
+1. Clone the repository
+2. Install dependencies:
+3. Open and run the notebook in `01_python/`
+
+### SQL
+1. Create a new MySQL database:
+
+2. Run scripts in order from `02_sql/`:
+   - `01_schema_and_ingestion.sql`
+   - `02_last_touch_attribution.sql`
+
+### Power BI
+1. Open `03_powerbi/TF_BI_REPORT.pbix` in Power BI Desktop
+2. Update the MySQL connection string to your local server
+3. Refresh all tables
+
+## Author
+
+**Utkarsh**
+Data Analyst
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white)](https://github.com/utkarshisatwork)
 
