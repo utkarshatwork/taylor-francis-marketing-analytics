@@ -53,10 +53,10 @@ where the budget is being wasted.
 - How much revenue can be directly attributed to each channel and campaign?
 - Which author segments — by institution type, job title, and behaviour — are the
   most commercially valuable?
-- Which journals have the highest and lowest acceptance rates, and what does that
-  mean for submission strategy?
 - Are there distinct behavioural segments among corporate authors that should be
   targeted differently?
+- Which subject areas drive the highest submission volume and revenue?
+- Which journals have the highest and lowest article acceptance rates?
 
 **The Deliverable:** A fully interactive Power BI report that gives the marketing
 and editorial teams a single source of truth for channel performance, audience
