@@ -1,0 +1,31 @@
+<svg viewBox="0 0 900 420" xmlns="http://www.w3.org/2000/svg">
+
+  <rect width="900" height="420" fill="#ffffff"/>
+
+  <!-- Python Box -->
+  <rect x="60" y="40" width="780" height="80" rx="6" fill="#002F6C"/>
+  <text x="340" y="72" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="rgba(255,255,255,0.6)" letter-spacing="3">PHASE 1</text>
+  <text x="340" y="100" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600" fill="#ffffff">ETL, EDA &amp; K-Means Clustering</text>
+  <text x="750" y="88" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="500" fill="#E8A020">Python</text>
+
+  <!-- Arrow 1 -->
+  <line x1="450" y1="120" x2="450" y2="155" stroke="#E8A020" stroke-width="2"/>
+  <polygon points="443,152 450,168 457,152" fill="#E8A020"/>
+
+  <!-- SQL Box -->
+  <rect x="60" y="168" width="780" height="80" rx="6" fill="#002F6C"/>
+  <text x="340" y="200" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="rgba(255,255,255,0.6)" letter-spacing="3">PHASE 2</text>
+  <text x="340" y="228" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600" fill="#ffffff">Schema Design, Ingestion &amp; Attribution Modelling</text>
+  <text x="750" y="216" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="500" fill="#E8A020">MySQL</text>
+
+  <!-- Arrow 2 -->
+  <line x1="450" y1="248" x2="450" y2="283" stroke="#E8A020" stroke-width="2"/>
+  <polygon points="443,280 450,296 457,280" fill="#E8A020"/>
+
+  <!-- Power BI Box -->
+  <rect x="60" y="296" width="780" height="80" rx="6" fill="#002F6C"/>
+  <text x="340" y="328" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="rgba(255,255,255,0.6)" letter-spacing="3">PHASE 3</text>
+  <text x="340" y="356" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600" fill="#ffffff">Data Model, DAX Measures &amp; Interactive Report</text>
+  <text x="740" y="344" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="500" fill="#E8A020">Power BI</text>
+
+</svg>
