@@ -41,7 +41,7 @@ business intelligence report in Power BI.
 
 ## Business Context and Problem Statement
 
-Taylor & Francis invested across 4 marketing channels and 20 campaigns to attract
+Taylor & Francis invested across various marketing channels and campaigns to attract
 academic authors and drive article submissions. This project audits that investment
 to answer:
 
