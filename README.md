@@ -41,8 +41,7 @@ business intelligence report in Power BI.
 
 ## Business Context and Problem Statement
 
-Taylor & Francis, a global academic publishing firm operating across
-multiple journals, subject areas, and author segments worldwide.
+Taylor & Francis, a global academic publishing firm operating across multiple journals, subject areas, and author segments worldwide.
 
 **The Scenario:** The marketing team has invested £650,000 across various channels and campaigns to attract authors and drive article submissions. Leadership needs to understand whether that investment is generating measurable return — and if not,
 where the budget is being wasted.
@@ -51,14 +50,10 @@ where the budget is being wasted.
 
 - Which marketing channels are generating positive ROI and which are loss-making?
 - How much revenue can be directly attributed to each channel and campaign?
-- Which author segments — by institution type, job title, and behaviour — are the
+- Which author segments - by institution type, job title, and behaviour are the
   most commercially valuable?
 - Are there distinct behavioural segments among corporate authors that should be
   targeted differently?
 - Which subject areas drive the highest submission volume and revenue?
 - Which journals have the highest and lowest article acceptance rates?
 
-**The Deliverable:** A fully interactive Power BI report that gives the marketing
-and editorial teams a single source of truth for channel performance, audience
-intelligence, and campaign-level ROI — down to drill-through analysis of
-individual campaigns within each channel.
