@@ -58,3 +58,7 @@ to answer:
 - 1 derived MySQL view: `submissions_attributed` - last-touch attribution output
 
 ## Project Architecture
+
+ETL & EDA (Python) → K-Means Clustering & Data Export (Python) → Schema Design,
+Ingestion & Attribution Modelling (MySQL) → Data Modelling and Visualization (Power BI)
+
