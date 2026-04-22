@@ -82,3 +82,41 @@ Ingestion & Attribution Modelling (MySQL) → Data Modelling and Visualization (
 - **DAX Measures** - 23 custom measures across 6 categories covering revenue,
   channel attribution, funnel metrics and campaign performance
 
+## Key Insights
+
+- Email delivered a **28.57x ROAS** on £50,000 spend - the highest performing
+  channel by a significant margin with a CPA of just £142 per published article
+- Social Ads returned a **0.53x ROAS** on £400,000 - the largest budget allocation
+  in the entire campaign but a net loss-making channel with a CPA of £7,692
+- Corporate authors generate **55% of total revenue** despite being one of two
+  primary institution segments
+- Corporate Pharma Research Scientists are the single most valuable author segment
+  with **£677,500 in attributed revenue**
+- The High Intent Whale cluster (**875 users**) shows 13.48 average email opens —
+  nearly 3x the baseline - confirming Email as the correct channel to target
+  this segment
+- Social Sciences has the highest journal acceptance rate at **31%** while Physics
+  has the lowest at **23%**
+- Oncology generates the highest revenue per subject area at **£880,000** despite
+  not having the highest submission volume
+
+## Results and Conclusion
+
+- The audit reveals a significant budget misallocation across marketing channels.
+The majority of spend is concentrated in the lowest-performing channel, while the
+highest-performing channel receives a fraction of the budget. Redistributing
+investment toward Email and Webinar Series — and reducing or eliminating Social
+Ads spend — would materially improve overall marketing ROI.
+
+- Corporate authors, particularly those in pharmaceutical research roles, represent
+the most commercially valuable audience segment. Future campaigns should prioritise
+this segment through targeted email outreach, aligned with the behavioural
+segmentation findings from the cluster analysis.
+
+- At the journal level, acceptance rate disparities suggest an opportunity to better
+align author targeting with journal fit — directing authors toward journals where
+their submissions are most likely to succeed, improving both author experience and
+published article volume.
+
+
+
