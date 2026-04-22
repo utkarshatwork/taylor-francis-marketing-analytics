@@ -56,3 +56,9 @@ to answer:
 
 - 4 core tables: `authors`, `submissions`, `interactions`, `marketing_spend`
 - 1 derived MySQL view: `submissions_attributed` - last-touch attribution output
+
+## Project Architecture
+
+Each phase feeds directly into the next - Python exports cleaned data into MySQL,
+MySQL productionises the attribution logic as views, and Power BI connects directly
+to the MySQL database to power the report.
