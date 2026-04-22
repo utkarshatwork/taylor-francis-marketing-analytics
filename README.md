@@ -55,11 +55,44 @@ to answer:
 - 4 core tables: `authors`, `submissions`, `interactions`, `marketing_spend`
 - 1 derived MySQL view: `submissions_attributed` - last-touch attribution output
 
-## Project Architecture
+## Project Structure
 
-<p align="center">
-  <img src="assets/architecture.svg" alt="Project Architecture"/>
-</p>
+```
+taylor-francis-marketing-analytics/
+│
+├── README.md
+├── .gitignore
+├── LICENSE
+│
+├── assets/
+│   ├── banner.svg                              # Project banner
+│   ├── Page1_Overview_Analysis.png             # Overview analysis screenshot
+│   ├── Page2_Channel_Performance.png           # Channel performance screenshot
+│   ├── Page3_Audience_Intelligence.png         # Audience intelligence screenshot
+│   └── Page4_Campaign_Detail_Drillthrough.png  # Drill-through screenshot
+│
+├── data/
+│   └── cleaned/
+│       ├── cleaned_authors.csv
+│       ├── cleaned_interactions.csv
+│       ├── cleaned_marketing_spend.csv
+│       └── cleaned_submissions.csv
+│
+├── python/
+│   └── T&F ETL-checkpoint.ipynb               # ETL, EDA & K-Means clustering
+│
+├── sql/
+│   ├── 01_Schema_and_Ingestion.sql             # Schema design & data ingestion
+│   ├── 02_Last_Touch_Attribution.sql           # Last-touch attribution model
+│   ├── 03_Channel_ROAS.sql                     # Channel ROAS analysis
+│   └── 04_View_Creation.sql                    # MySQL view creation
+│
+├── powerbi/
+│   └── T&F_BI_REPORT.pbix                     # Interactive Power BI report
+│
+└── report/
+    └── TF_Marketing_ROI_Report.pdf             # Project analysis report
+```
 
 ## Tools and Technologies
 
