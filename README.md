@@ -13,6 +13,9 @@
 </p>
 
 ---
+<p align="center">
+  📄 <a href="https://github.com/utkarshatwork/taylor-francis-marketing-analytics/raw/main/report/TF_Marketing_ROI_Report.pdf"><strong>Download Full Project Report (PDF)</strong></a>
+</p>
 
 ## Table of Contents
 
